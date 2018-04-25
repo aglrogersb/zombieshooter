@@ -270,7 +270,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 1542663763426890, guid: 7ff95031fe6297a45928665281a15138,
     type: 2}
   bulletSpawn: {fileID: 464322888}
-  fireTime: 0.5
+  fireTime: 0
 --- !u!95 &62442646
 Animator:
   serializedVersion: 3
